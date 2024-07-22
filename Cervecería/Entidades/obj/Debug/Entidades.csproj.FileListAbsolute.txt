@@ -1,0 +1,6 @@
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\bin\Debug\Entidades.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\bin\Debug\Entidades.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\obj\Debug\Entidades.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Entidades\obj\Debug\Entidades.pdb

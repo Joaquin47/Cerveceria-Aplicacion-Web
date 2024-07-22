@@ -1,0 +1,9 @@
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\bin\Debug\Datos.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\bin\Debug\Datos.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\bin\Debug\Entidades.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\bin\Debug\Entidades.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\obj\Debug\Datos.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Datos\obj\Debug\Datos.pdb

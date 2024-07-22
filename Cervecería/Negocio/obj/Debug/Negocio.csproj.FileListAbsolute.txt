@@ -1,0 +1,11 @@
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Negocio.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Negocio.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Datos.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Entidades.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Datos.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\bin\Debug\Entidades.pdb
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\obj\Debug\Negocio.dll
+D:\Users\PC\Desktop\TPINT_GRUPO_5_PR3\Negocio\obj\Debug\Negocio.pdb
